@@ -1,5 +1,4 @@
-/* cspell:disable-file */
-      /* webkit printing magic: print all background colors */
+
       html {
         -webkit-print-color-adjust: exact;
       }
@@ -9,8 +8,9 @@
       }
 
       body {
-        margin: 2em auto;
-        max-width: 900px;
+        margin: 0 auto;
+        max-width: 1024px;
+        padding: 1.5rem;
         color: rgb(55, 53, 47);
       }
 
