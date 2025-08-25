@@ -8,11 +8,13 @@
       }
 
       body {
-        margin: 0 auto;
-        max-width: 1024px;
-        padding: 1.5rem;
-        color: rgb(55, 53, 47);
+          margin: 0 auto;
+          max-width: 1024px;
+          padding: 1.5rem;
+          color: rgb(55, 53, 47);
+          font-family: "Malgun Gothic", "Apple SD Gothic Neo", "Noto Sans KR", sans-serif;
       }
+
 
       .page-title {
         font-size: 2rem;
